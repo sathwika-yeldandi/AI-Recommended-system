@@ -149,11 +149,11 @@ python app.py
 
 ## 👩‍💻 Author
 
-**Shivani Rudra**
+****sathwika-yeldandi****
 
-GitHub: https://github.com/rudrashivani19-lab
+GitHub: https://github.com/sathwika-yeldandi
 
-LinkedIn: https://www.linkedin.com/in/shivani-rudra-a4056b36b/
+
 
 ---
 
